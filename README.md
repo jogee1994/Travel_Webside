@@ -17,8 +17,7 @@ You will also see any lint errors in the console.
 
 ### Demo
 
-https://github.com/jogee1994/Travel_Webside/blob/master/src/images/Screenshot%202019-07-28%20at%209.15.25%20PM.png
-
+![](https://github.com/jogee1994/Travel_Webside/blob/master/src/images/Screenshot%202019-07-28%20at%209.15.25%20PM.png)
 
 ### `npm test`
 
